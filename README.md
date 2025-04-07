@@ -11,6 +11,18 @@ This data engineering project implements a scalable, real-time data pipeline to 
 - Operational Inefficiencies: Streamlined operations through real-time insights
 - Expansion Uncertainty: Delivered actionable data for location decisions
 
+## Generative AI as Co-pilot
+I leveraged Generative AI as a co-pilot to create a clear, concise dashboard in AWS. The dashboard provided fresh insights, enabling our business client to implement scalable revenue-boosting improvements while reducing security risks and minimizing data noise.
+
+### Real-time Analytics Dashboard
+![AWS CloudWatch Dashboard showing key business metrics](images/dashboard.png)
+
+Key insights from the dashboard:
+- Cities visiting the menu the most (pie chart)
+- Cities placing the most orders (tabular data)
+- Regions placing the most orders (donut chart)
+- Regions visiting the website the most (bar chart)
+
 ## Architecture
 The solution uses several AWS services in an integrated pipeline:
 - Amazon EC2: Hosts the web server
@@ -20,8 +32,14 @@ The solution uses several AWS services in an integrated pipeline:
 - IAM: Controls secure access and permissions
 
 ## Project Demonstrations
-- [Why Observing Logs is Important for Clickstream](https://www.loom.com/share/c3f97477b4c047d4bbd84508ef67748b)
-- [Dashboard Walkthrough](https://www.loom.com/share/5ed5400678794b16a1df379aec51ede0)
+### Clickstream Log Analysis
+[![Why Observing Logs is Important for Clickstream](https://cdn.loom.com/sessions/thumbnails/c3f97477b4c047d4bbd84508ef67748b-with-play.gif)](https://www.loom.com/share/c3f97477b4c047d4bbd84508ef67748b?sid=8c1ab6f1-9b2e-4b6b-bf99-c27afcf5ae31)
+
+### Dashboard Implementation
+[![Dashboard Walkthrough](https://cdn.loom.com/sessions/thumbnails/5ed5400678794b16a1df379aec51ede0-with-play.gif)](https://www.loom.com/share/5ed5400678794b16a1df379aec51ede0?sid=809b9b94-46b0-484a-b7ca-48e600af168f)
+
+## Implementation Details & Architecture
+[Your implementation pictures will be added here]
 
 ## Implementation Details
 - Designed and implemented scalable data collection pipeline
