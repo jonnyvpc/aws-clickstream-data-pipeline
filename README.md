@@ -40,6 +40,13 @@ The solution uses several AWS services in an integrated pipeline:
 
 ## Implementation Details & Architecture
 
+### AWS Services Implementation
+- **Amazon EC2**: For hosting the web server
+- **Amazon CloudWatch**: For logging, monitoring, and dashboarding
+- **Amazon S3 & S3 Select**: For data storage and querying using S3 Select
+- **AWS Cloud9**: For development and management environment
+- **IAM Role**: For secure access and permissions management
+
 ### System Architecture
 ![AWS Clickstream Data Pipeline Architecture](https://cdn.prod.website-files.com/678689ad79214b873fce7420/67f3f615923fcc32b2944dbd__Data_Pipeline_to_Support_Analyzing_Clickstream_Data_with_AWS.webp)
 
