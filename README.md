@@ -15,7 +15,7 @@ This data engineering project implements a scalable, real-time data pipeline to 
 I leveraged Generative AI as a co-pilot to create a clear, concise dashboard in AWS. The dashboard provided fresh insights, enabling our business client to implement scalable revenue-boosting improvements while reducing security risks and minimizing data noise.
 
 ### Real-time Analytics Dashboard
-![AWS CloudWatch Dashboard showing key business metrics](images/dashboard.png)
+![AWS CloudWatch Dashboard showing key business metrics](https://cdn.prod.website-files.com/678689ad79214b873fce7420/67f3ed87f5a7743671651c25_Building%20a%20Data%20Pipeline%20for%20Business%20Insights.webp)
 
 Key insights from the dashboard:
 - Cities visiting the menu the most (pie chart)
