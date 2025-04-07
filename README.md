@@ -39,9 +39,11 @@ The solution uses several AWS services in an integrated pipeline:
 [![Dashboard Walkthrough](https://cdn.loom.com/sessions/thumbnails/5ed5400678794b16a1df379aec51ede0-with-play.gif)](https://www.loom.com/share/5ed5400678794b16a1df379aec51ede0?sid=809b9b94-46b0-484a-b7ca-48e600af168f)
 
 ## Implementation Details & Architecture
-[Your implementation pictures will be added here]
 
-## Implementation Details
+### System Architecture
+![AWS Clickstream Data Pipeline Architecture](https://cdn.prod.website-files.com/678689ad79214b873fce7420/67f3f615923fcc32b2944dbd__Data_Pipeline_to_Support_Analyzing_Clickstream_Data_with_AWS.webp)
+
+### Key Components
 - Designed and implemented scalable data collection pipeline
 - Created real-time monitoring dashboards
 - Implemented secure data storage and access patterns
